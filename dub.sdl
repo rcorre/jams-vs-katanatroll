@@ -5,7 +5,7 @@ authors "rcorre"
 license "MIT"
 
 dependency "dtiled" version="~>0.3.0"
-dependency "allegro" path="DAllegro5"
+dependency "allegro" version="3.0.2+5.1.13"
 dependency "gfm:math" version="~>5.0.0"
 
 lflags "-Lbuild/lib"
